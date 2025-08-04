@@ -1,6 +1,6 @@
 # Olá, Bem-vindos ao meu Github
 
-![](https://portalaprendizado2023.blogspot.com/2023/04/full-stack-programacao-back-e-front.html)
+![Gif](https://portalaprendizado2023.blogspot.com/2023/04/full-stack-programacao-back-e-front.html)
 <!--
 **josimario-bezerra/josimario-bezerra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
