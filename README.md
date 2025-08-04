@@ -8,9 +8,14 @@
 
 💻 Sou formado em Engeharia Mecânica, mas sou apaixonado por tecnólogia e tenho estudado para tentar uma vaga na área.
 --------
- 📫[Linkedin](https://www.linkedin.com/in/josimario-bezerra/)
+ 📫[Acesse o meu Linkedin](https://www.linkedin.com/in/josimario-bezerra/)
 ---------
+## Minhas tecnologias
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original.svg" width="100px">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="100px" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"  width="100px"/>
+          
 
 
 <!--
