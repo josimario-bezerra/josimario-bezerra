@@ -2,7 +2,10 @@
 
 ![Gif](https://th.bing.com/th/id/R.e426702edf874b181aced1e2fa5c6cde?rik=al4fgdsp5hCYeA&pid=ImgRaw&r=0)
 
-:bowtie:
+
+👽 Oi, eu o Josimário Bezerra
+💻 Sou formado em Engeharia Mecânica, mas sou apaixonado por tecnólogia e tenho estudado para tentar uma vaga na área.
+
 
 
 
