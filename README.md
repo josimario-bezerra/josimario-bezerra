@@ -13,7 +13,16 @@
 ## Minhas tecnologias
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original.svg" width="100px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="100px" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"  width="100px"/>
-          
+
+---------
+
+| Cursos | Certificados |
+|--------| -------------|
+|Introdução ao HTML | [ Certificado](https://media.licdn.com/dms/image/sync/v2/D4D27AQH-7HE5IRbyfg/articleshare-shrink_160/B4DZh2VC6lGsAo-/0/1754331887451?e=1754938800&v=beta&t=KG3FlX41wklb055-K5uC9MYas3kXK-F7EPreV5PZvKk)
+ | Príncipios do Git e Github | [ Certificado](https://www.dio.me/certificate/3WB0V0EC/share)
+
+![josimario-bezerra GitHub stats](https://github-readme-stats.vercel.app/api?username=josimario-bezerra&show_icons=true&theme=radical)
+
 
 
 <!--
