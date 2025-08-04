@@ -1,6 +1,11 @@
 # Olá, Bem-vindos ao meu Github
 
 ![Gif](https://th.bing.com/th/id/R.e426702edf874b181aced1e2fa5c6cde?rik=al4fgdsp5hCYeA&pid=ImgRaw&r=0)
+
+:bowtie:
+
+
+
 <!--
 **josimario-bezerra/josimario-bezerra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
