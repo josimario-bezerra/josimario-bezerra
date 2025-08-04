@@ -4,6 +4,7 @@
 
 
 👽 Oi, eu o Josimário Bezerra.
+------------
 
 💻 Sou formado em Engeharia Mecânica, mas sou apaixonado por tecnólogia e tenho estudado para tentar uma vaga na área.
 
