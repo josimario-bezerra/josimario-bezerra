@@ -7,8 +7,10 @@
 ------------
 
 💻 Sou formado em Engeharia Mecânica, mas sou apaixonado por tecnólogia e tenho estudado para tentar uma vaga na área.
-
+--------
  📫[Linkedin](https://www.linkedin.com/in/josimario-bezerra/)
+---------
+
 
 
 <!--
