@@ -3,12 +3,14 @@
 ![Gif](https://th.bing.com/th/id/R.e426702edf874b181aced1e2fa5c6cde?rik=al4fgdsp5hCYeA&pid=ImgRaw&r=0)
 
 
-👽 Oi, eu sou o Josimário Bezerra.
-------------
+### 👋 Olá! Eu sou o Josimario
 
-💻 Sou formado em Engeharia Mecânica, mas sou apaixonado por tecnólogia e tenho estudado para tentar uma vaga na área.
---------
- 📫[Acesse o meu Linkedin](https://www.linkedin.com/in/josimario-bezerra/)
+🎓 Sou bacharel em Engenharia Mecânica, com experiência em ambientes industriais  
+💻 Atualmente me especializando em **Cibersegurança** e aprendendo novas tecnologias  
+🚀 Apaixonado por resolver problemas e aprender constantemente  
+📂 Aqui você vai encontrar meus projetos, anotações de estudo e ferramentas que estou explorando  
+📫 Entre em contato: | [LinkedIn](https://www.linkedin.com/in/josimario-bezerra/)
+
 ---------
 ## Minhas tecnologias
 
@@ -24,7 +26,8 @@
 
 ![Josimário Bezerra GitHub stats](https://github-readme-stats.vercel.app/api?username=josimario-bezerra&show_icons=true&theme=radical)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=josimario-bezerra&layout=compact&langs_count=7&theme=dracula)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=josimario-bezerra&layout=compact&langs_count=7&theme=dracula
+)
 
 
 <!--
